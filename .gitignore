@@ -1,0 +1,8 @@
+# configuration
+/.vscode
+
+# cache
+/wordcount/__pycache__
+
+# database
+/db.sqlite3
